@@ -1,1 +1,26 @@
-Update config
+;aiu;
+
+[General]
+MessageTitle = Mona Gone VST
+MessageBody = The hot fix update is ready! Check it out with the Mona Gone Updater!
+MessageExpirationDate = 12/10/2025
+MessageImageURL = https://mfxstudios.usite.pro/MonaGone/Mona_Ico.ico
+
+[Mona Gone v.1.0.1]
+Name = MonaGone v.1.0.1
+Category = Hot fix
+ProductVersion = 1.0.1.0
+URL = https://github.com/MolotFx/MonaGone/releases/download/MonaGone/MFX_MonaGone_v.1.0.1_Upd_Setup.exe
+Size = 40345272
+ReleaseDate = 10/10/2025
+SHA256 = 0D25F0CFBC90E2D71992AAE90FE3D2DE8008F8A79DF41C6FE5C578823043AD52
+MD5 = 685f074533e1d576282eb4f8a7133ebb
+ServerFileName = MFX_MonaGone_v.1.0.1_Upd_Setup.exe
+Flags = OsX86
+RegistryKey = HKUD\Software\Molot FX Studios\MonaGone\Version
+Version = 1.0.1.0
+Description = Quick fix for some features of the Mona Gone plugin
+Feature = A button for launching the user manual for the plugin has been added to the INFO window.
+Enhancement = The main plugin's size has been reduced by half.
+Enhancement1 = Preparing for the next update
+BugFix = Fixed strange errors observed when loading into Sonar DAW
